@@ -4,12 +4,10 @@
 
 <br/>
 
-<a href="https://github.com/DurvasPalve203">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge" />
-</a>
 <a href="https://github.com/DurvasPalve203?tab=repositories">
   <img src="https://img.shields.io/badge/Projects-Open--Source-blue?style=for-the-badge" />
 </a>
+
 <a href="https://portfilodurvas.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge" />
 </a>
@@ -20,14 +18,14 @@
 
 ## ⚡ About Me
 
- **Frontend & Full Stack Web Developer** passionate about building  
-**clean, responsive, and modern web applications** with strong UI/UX focus.
+ Computer Science Engineering student with strong interest in  
+**Data Structures, core CS fundamentals**, and **Full Stack Web Development**.
 
--  **B.Tech CSE (2024–2028)** — Vishwakarma Institute of Technology, Pune  
--  Strong in **React, TypeScript, Tailwind CSS**
--  Built & deployed a **fully animated personal portfolio website**
--  Currently learning DSA in C++, SQL, MERN 
--  Actively improving full-stack & deployment skills
+- B.Tech CSE (2024–2028) — Vishwakarma Institute of Technology, Pune
+- Actively learning **DSA in C++** and strengthening problem-solving skills
+- Understanding **OOP concepts, DBMS, SQL, and Operating Systems**
+- Built and deployed modern web applications using **React & TypeScript**
+
 
 ---
 
