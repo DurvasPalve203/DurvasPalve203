@@ -20,18 +20,18 @@
 
 ## ⚡ About Me
 
-👨‍💻 **Frontend & Full Stack Web Developer** passionate about building  
+ **Frontend & Full Stack Web Developer** passionate about building  
 **clean, responsive, and modern web applications** with strong UI/UX focus.
 
-- 🎓 **B.Tech CSE (2024–2028)** — Vishwakarma Institute of Technology, Pune  
-- ⚛️ Strong in **React, TypeScript, Tailwind CSS**
-- 🌐 Built & deployed a **fully animated personal portfolio website**
-- 🧠 Currently learning DSA in C++, SQL, MERN 
-- 🚀 Actively improving full-stack & deployment skills
+-  **B.Tech CSE (2024–2028)** — Vishwakarma Institute of Technology, Pune  
+-  Strong in **React, TypeScript, Tailwind CSS**
+-  Built & deployed a **fully animated personal portfolio website**
+-  Currently learning DSA in C++, SQL, MERN 
+-  Actively improving full-stack & deployment skills
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 💻 Frontend
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,46 +56,15 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🔹 MyPortfolio — Personal Portfolio Website  
-📅 *Jun 2025 – Present*
-
-- Fully responsive & animated portfolio website  
-- Built using **React + TypeScript** with clean UI animations  
-- Showcases skills, projects, resume, and contact details  
-- Designed with **modern UI/UX principles**
-
-**Tech Stack:**  
-`React · TypeScript · Tailwind CSS · Vite`
-
-🔗 **Live:** https://portfilodurvas.netlify.app/  
-🔗 **Repo:** https://github.com/YOUR_GITHUB_USERNAME/MyPortfilo
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
 ## 🏆 Highlights
 
-- 🏁 Hackathon Finalist  
-- 📊 Top 1% in C++ Test  
-- 📜 Certified in C, Python & Frontend (HTML/CSS)  
-- 🧠 Strong problem-solving & logical thinking  
-- 🤝 Good communication & leadership skills  
+
+-  Actively learning **Data Structures & Algorithms (DSA)** in C++
+-  Strong understanding of **Python fundamentals & OOP concepts**
+-  Solid foundation in **DBMS, SQL, and relational databases**
+-  Familiar with **Operating Systems** concepts (processes, memory, scheduling)
+-  Consistent problem-solving practice with focus on logic & efficiency
+   
 
 ---
 
