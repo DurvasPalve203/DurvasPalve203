@@ -4,10 +4,10 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/DurvasPalve203">
   <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<a href="https://github.com/DurvasPalve203?tab=repositories">
   <img src="https://img.shields.io/badge/Projects-Open--Source-blue?style=for-the-badge" />
 </a>
 <a href="https://portfilodurvas.netlify.app/">
@@ -26,7 +26,7 @@
 - 🎓 **B.Tech CSE (2024–2028)** — Vishwakarma Institute of Technology, Pune  
 - ⚛️ Strong in **React, TypeScript, Tailwind CSS**
 - 🌐 Built & deployed a **fully animated personal portfolio website**
-- 🧠 Practicing **DSA in C++** (LeetCode & GeeksforGeeks)
+- 🧠 Currently learning DSA in C++, SQL, MERN 
 - 🚀 Actively improving full-stack & deployment skills
 
 ---
