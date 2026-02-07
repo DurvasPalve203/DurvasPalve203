@@ -1,84 +1,104 @@
-<!-- ========================= -->
-<!-- 🌊 ANIMATED HEADER -->
-<!-- ========================= -->
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20World!%20I'm%20Durva&fontSize=42&fontAlignY=35&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+World!+I'm+Durvas+Palve;Frontend+%26+Full+Stack+Web+Developer;React+%7C+TypeScript+%7C+UI%2FUX+Enthusiast;Building+Modern+Web+Experiences" />
 
-<p align="center">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<br/>
 
----
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Open--Source-blue?style=for-the-badge" />
+</a>
+<a href="https://portfilodurvas.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge" />
+</a>
 
-## 👋 About Me
-
-🎓 Computer Engineering Student  
-💻 Frontend + Backend Developer  
-🧠 Learning Full-Stack & System Design  
-🚀 Focused on **real projects, clean commits, and placements**
-
-> *“Build things. Break things. Learn fast.”*
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ About Me
 
-### 🧠 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+👨‍💻 **Frontend & Full Stack Web Developer** passionate about building  
+**clean, responsive, and modern web applications** with strong UI/UX focus.
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+- 🎓 **B.Tech CSE (2024–2028)** — Vishwakarma Institute of Technology, Pune  
+- ⚛️ Strong in **React, TypeScript, Tailwind CSS**
+- 🌐 Built & deployed a **fully animated personal portfolio website**
+- 🧠 Practicing **DSA in C++** (LeetCode & GeeksforGeeks)
+- 🚀 Actively improving full-stack & deployment skills
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+
+### 🔧 Backend & Database
+![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![REST API](https://img.shields.io/badge/REST_API-black?style=for-the-badge)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-teal?style=for-the-badge&logo=netlify)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 🚀 Featured Project
+
+### 🔹 MyPortfolio — Personal Portfolio Website  
+📅 *Jun 2025 – Present*
+
+- Fully responsive & animated portfolio website  
+- Built using **React + TypeScript** with clean UI animations  
+- Showcases skills, projects, resume, and contact details  
+- Designed with **modern UI/UX principles**
+
+**Tech Stack:**  
+`React · TypeScript · Tailwind CSS · Vite`
+
+🔗 **Live:** https://portfilodurvas.netlify.app/  
+🔗 **Repo:** https://github.com/YOUR_GITHUB_USERNAME/MyPortfilo
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
----
+<br/><br/>
 
-## 🟩 Contribution Graph
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 🏆 Highlights
 
-<p align="center">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+- 🏁 Hackathon Finalist  
+- 📊 Top 1% in C++ Test  
+- 📜 Certified in C, Python & Frontend (HTML/CSS)  
+- 🧠 Strong problem-solving & logical thinking  
+- 🤝 Good communication & leadership skills  
 
 ---
 
-<!-- ========================= -->
-<!-- 🚀 END -->
-<!-- ========================= -->
+<div align="center">
+  <h3><i>"Consistency beats talent when talent doesn’t work consistently."</i></h3>
+</div>
