@@ -24,8 +24,8 @@ Computer Engineering student focused on **Data Structures & Algorithms, core com
 
 - 🎓 B.Tech Computer Engineering (2024–2028) — Vishwakarma Institute of Technology, Pune
 - 💻 Practicing DSA in C++ and improving problem-solving skills
-- 🧠 Building strong foundations in OOP, DBMS, SQL, and Operating Systems
-- 🌐 Developing modern web applications with React and TypeScript
+- 🧠 Strengthening foundations in OOP, DBMS, SQL, and Operating Systems
+- 🌐 Building modern web applications using React and TypeScript
 - 🚀 Interested in software engineering, AI, and scalable applications
 
 ---
@@ -77,17 +77,23 @@ Computer Engineering student focused on **Data Structures & Algorithms, core com
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Highlights
 
-| Project | Description |
-|---|---|
-| [Portfolio & Resume Builder](https://portfilodurvas.netlify.app/) | Personal portfolio and resume-building web application |
-| [Photo Frame Store](https://github.com/DurvasPalve203) | Full-stack web application using React, TypeScript, and Supabase |
-| [India Route Finder](https://github.com/DurvasPalve203) | Route-finding project built using Python and Flask |
-| [Cricket Tournament Management System](https://github.com/DurvasPalve203) | DBMS project using MySQL |
-| [Warlords of The Sea](https://github.com/DurvasPalve203) | Smart retail intelligence project focused on edge AI |
+- Strong foundation in C++, Python, OOP, DBMS, and Operating Systems
+- Actively practicing Data Structures & Algorithms
+- Experience building and deploying web applications
+- Focused on writing efficient, maintainable code
+- Learning through practical projects and consistent problem-solving
 
-> Explore my repositories for source code and additional projects.
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DurvasPalve203/DurvasPalve203/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+
+</div>
 
 ---
 
@@ -96,16 +102,16 @@ Computer Engineering student focused on **Data Structures & Algorithms, core com
 <div align="center">
 
 <a href="https://github.com/DurvasPalve203">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=DurvasPalve203&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8&text_color=E5E7EB" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DurvasPalve203&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8&text_color=E5E7EB" alt="GitHub statistics" />
 </a>
-<a href="https://github.com/DurvasPalve203">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=DurvasPalve203&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=8B5CF6&sideLabels=E5E7EB&dates=94A3B8&timezone=Asia%2FKolkata" alt="GitHub contribution streak" />
+<a href="https://github-readme-streak-stats.herokuapp.com">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=DurvasPalve203&theme=transparent&hide_border=true&ring=8B5CF6&fire=38BDF8&currStreakLabel=8B5CF6&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub contribution streak" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/DurvasPalve203">
-  <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DurvasPalve203&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB" alt="Most used programming languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurvasPalve203&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB" alt="Most used programming languages" />
 </a>
 
 </div>
@@ -117,14 +123,14 @@ Computer Engineering student focused on **Data Structures & Algorithms, core com
 - Solving DSA problems in C++
 - Improving algorithmic thinking and time complexity analysis
 - Strengthening Operating Systems, DBMS, and OOP fundamentals
-- Building full-stack applications and practical software projects
-- Maintaining a consistent learning and development routine
+- Developing full-stack applications
+- Building consistency in learning and problem-solving
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=8B5CF6&center=true&vCenter=true&width=700&lines=Consistency+%3E+Motivation;Learn.+Build.+Improve.;One+Commit+at+a+Time." alt="Motivational typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=8B5CF6&center=true&vCenter=true&width=700&lines=Consistency+%3E+Motivation;Learn.+Build.+Improve.;One+Commit+at+a+Time." alt="Motivational animation" />
 
 <br/><br/>
 
@@ -133,7 +139,7 @@ Computer Engineering student focused on **Data Structures & Algorithms, core com
 <br/>
 
 <a href="https://github.com/DurvasPalve203">
-  <img src="https://img.shields.io/badge/Let's_Build_Something-GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Let's build something" />
+  <img src="https://img.shields.io/badge/Let's_Build_Something-GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 
 </div>
